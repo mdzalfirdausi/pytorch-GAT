@@ -16,3 +16,4 @@ dependencies:
     - networkx==2.5
     - python-igraph==0.8.3
     - pycairo==1.20.0
+    - protobuf==3.20.*
